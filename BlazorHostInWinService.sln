@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHostInWinService.Clie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorHostInWinService.Shared", "BlazorHostInWinService\Shared\BlazorHostInWinService.Shared.csproj", "{9ABFD2EC-A89C-4F9F-AB97-AAB2B5148BF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWorkerService", "BlazorWorkerService\BlazorWorkerService.csproj", "{8D572F0A-E1B6-4EDE-B012-BDEF4B9D91C4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{9ABFD2EC-A89C-4F9F-AB97-AAB2B5148BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9ABFD2EC-A89C-4F9F-AB97-AAB2B5148BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9ABFD2EC-A89C-4F9F-AB97-AAB2B5148BF3}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D572F0A-E1B6-4EDE-B012-BDEF4B9D91C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D572F0A-E1B6-4EDE-B012-BDEF4B9D91C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D572F0A-E1B6-4EDE-B012-BDEF4B9D91C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D572F0A-E1B6-4EDE-B012-BDEF4B9D91C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
